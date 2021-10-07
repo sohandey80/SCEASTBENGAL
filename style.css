@@ -1,0 +1,25 @@
+body
+{
+    background: linear-gradient(#f51531 0%,#dcf716 100%);
+}
+#sc_eastbengal
+{
+    height: 100px;
+    width: 100px;
+}
+#rcb
+{
+    text-align: center;
+     color: rgb(68, 0, 255);
+     size: 500px;
+}
+#ipl
+{
+    text-align: center;
+    color: rgb(68, 0, 255);
+    font-weight: bold;
+    font-size: xx-large;
+   
+    font-family: 'Courier New', Courier, monospace;
+
+}
